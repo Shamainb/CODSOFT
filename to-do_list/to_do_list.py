@@ -1,6 +1,7 @@
 import tkinter as tkinter
 import pickle
 
+
 def add_task(task_entry, task_box):
     task = task_entry.get()
     if task != "":
