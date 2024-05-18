@@ -10,6 +10,7 @@ print("4. Divide")
 # Take the user's choice of operation as input
 choice = input("Enter choice: ")
 
+
 # Take two numbers as input from the user and convert them to integers
 num1 = int(input("Enter the first number: "))  # Convert input to integer
 num2 = int(input("Enter the second number: "))  # Convert input to integer
