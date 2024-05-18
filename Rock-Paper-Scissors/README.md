@@ -10,7 +10,6 @@ Display Result: Show the user's choice and the computer's choice.
 Display the result, whether the user wins, loses, or it's a tie.
 Score Tracking (Optional): Keep track of the user's and computer's scores for
 multiple rounds.
-
 Play Again: Ask the user if they want to play another round.
 
 User Interface: Design a user-friendly interface with clear instructions and
