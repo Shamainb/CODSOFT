@@ -5,7 +5,7 @@ def play_rps():
     user_choices = {"rock": 0, "paper": 1, "scissors": 2}
     computer_choices = {0: "rock", 1: "paper", 2: "scissors"}
 
-# Get user's choice and validate it
+# Get user's choice and validate
     user_choice = input("Enter your choice: 0 rock, 1 paper, or 2 scissors: ")
 
     while user_choice not in user_choices:
