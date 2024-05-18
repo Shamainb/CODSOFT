@@ -3,6 +3,7 @@ import random
 
 def play_rps():
     """Play a single round of Rock, Paper, Scissors game."""
+
     user_choices = {"rock": 0, "paper": 1, "scissors": 2}
     computer_choices = {0: "rock", 1: "paper", 2: "scissors"}
 
