@@ -1,6 +1,5 @@
 import random
 
-
 def play_rps():
     """Play a single round of Rock, Paper, Scissors game."""
 
